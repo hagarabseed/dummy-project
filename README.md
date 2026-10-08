@@ -1,1 +1,1 @@
-# dummy-project
+# Dummy Project Documentation
